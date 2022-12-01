@@ -1,0 +1,23 @@
+nav {
+    background-color: #1C2B35;
+    padding: 19px 100px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+nav a {
+    margin-left: 20px;
+    color: white;
+    font-family: 'Lato';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 20px;
+    letter-spacing: 0.005em;
+    text-decoration: none;
+}
+
+nav a:hover{
+    color:orange;
+}
